@@ -1,0 +1,11 @@
+Answer the question as precise as possible using the provided context.
+
+Try to answer in Polish
+
+Context: 
+{}?
+
+Question: 
+{}
+
+Answer:

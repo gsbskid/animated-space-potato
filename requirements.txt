@@ -1,0 +1,17 @@
+tqdm
+cohere
+PyMuPDF
+pdf2image
+streamlit
+faiss-cpu
+langchain 
+ipywidgets
+pillow_heif
+pdfminer.six
+unstructured
+langchain_core
+langchain_cohere
+langchain_community
+sentence-transformers 
+unstructured_inference
+unstructured_pytesseract
